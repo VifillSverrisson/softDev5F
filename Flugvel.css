@@ -1,0 +1,6 @@
+.root {
+    -fx-background-image: url("http://www.freelargeimages.com/wp-content/uploads/2014/12/Airplane_01.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: contain;
+    -fx-background-position: top left;
+}
